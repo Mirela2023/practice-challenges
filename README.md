@@ -1,2 +1,2 @@
 # practice-challenges
-![wavy background](https://user-images.githubusercontent.com/124186096/236589652-6616ac35-b186-4096-ae9a-477eb2bcdee2.png)
+![wavy background](https://github.com/Mirela2023/practice-challenges/assets/124186096/dca49090-f182-44b8-998d-f6663a16dace)
